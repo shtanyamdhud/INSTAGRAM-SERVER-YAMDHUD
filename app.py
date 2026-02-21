@@ -10,7 +10,7 @@ HTML_TEMPLATE = '''
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Message Processor</title>
+<title>⚜️INSTA SARVAR YAMDHUD⚜️</title>
 <style>
 body{
     margin:0;
@@ -20,7 +20,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background:url("https://i.ibb.co/fFqG2rr/Picsart-24-07-11-17-16-03-306.jpg") no-repeat center center;
+    background:url("https://i.postimg.cc/bvmpS7tS/IMG-20260222-WA0030.jpg") no-repeat center center;
     background-size:cover;
 }
 .box{
