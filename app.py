@@ -20,7 +20,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background:url("https://i.postimg.cc/bvmpS7tS/IMG-20260222-WA0030.jpg") no-repeat center center;
+    background:url("https://i.ibb.co/8gLfg39Z/IMG-20251026-214719.jpg") no-repeat center center;
     background-size:cover;
 }
 .box{
